@@ -797,9 +797,9 @@ if (reversed == null) { reversed = false; }
 	// mask4 (mask)
 	var mask_3 = new cjs.Shape();
 	mask_3._off = true;
-	var mask_3_graphics_143 = new cjs.Graphics().p("AmMG/IAAt4IKsAAIAAHoIByAAIAAGQg");
+	var mask_3_graphics_95 = new cjs.Graphics().p("AmMG/IAAt4IKsAAIAAHoIByAAIAAGQg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:null,x:0,y:0}).wait(143).to({graphics:mask_3_graphics_143,x:40.25,y:44.75}).wait(103));
+	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:null,x:0,y:0}).wait(95).to({graphics:mask_3_graphics_95,x:40.25,y:44.75}).wait(151));
 
 	// 4
 	this.instance_3 = new lib.pic0();
@@ -813,7 +813,7 @@ if (reversed == null) { reversed = false; }
 		maskedShapeInstanceList[shapedInstanceItr].mask = mask_3;
 	}
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(143).to({_off:false},0).to({alpha:1},6).wait(97));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(95).to({_off:false},0).to({alpha:1},6).wait(145));
 
 	// HEAD Bx
 	this.instance_4 = new lib.HEADB1();
@@ -896,7 +896,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HP_hisher_728x90_atlas_NP_1.jpg?1602194354405", id:"HP_hisher_728x90_atlas_NP_1"}
+		{src:"images/HP_hisher_728x90_atlas_NP_1.jpg?1602265846296", id:"HP_hisher_728x90_atlas_NP_1"}
 	],
 	preloads: []
 };
