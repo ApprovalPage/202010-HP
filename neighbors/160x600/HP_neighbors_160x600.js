@@ -789,7 +789,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_5.alpha = 0;
 	this.instance_5._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(75).to({_off:false},0).to({alpha:1},5).wait(81).to({alpha:0},5).to({_off:true},1).wait(6));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(96).to({_off:false},0).to({alpha:1},5).wait(60).to({alpha:0},5).to({_off:true},1).wait(6));
 
 	// HEAD2
 	this.instance_6 = new lib.HEAD2();
@@ -831,7 +831,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HP_neighbors_160x600_atlas_NP_1.jpg?1604792790287", id:"HP_neighbors_160x600_atlas_NP_1"}
+		{src:"images/HP_neighbors_160x600_atlas_NP_1.jpg?1604960587145", id:"HP_neighbors_160x600_atlas_NP_1"}
 	],
 	preloads: []
 };
