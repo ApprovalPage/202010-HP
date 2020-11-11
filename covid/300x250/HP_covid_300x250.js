@@ -661,8 +661,8 @@ if (reversed == null) { reversed = false; }
 	// mask3 (mask)
 	var mask_1 = new cjs.Shape();
 	mask_1._off = true;
-	mask_1.graphics.p("ANIH6IAAt6IhhAAIAAhFILcAAIAAO/g");
-	mask_1.setTransform(147.4542,50.6146);
+	mask_1.graphics.p("ANJH6IAAu/IJ7AAIAAO/g");
+	mask_1.setTransform(147.6042,50.6146);
 
 	// 3
 	this.instance_1 = new lib.pic0();
@@ -754,7 +754,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HP_covid_300x250_atlas_NP_1.jpg?1605050153856", id:"HP_covid_300x250_atlas_NP_1"}
+		{src:"images/HP_covid_300x250_atlas_NP_1.jpg?1605131532754", id:"HP_covid_300x250_atlas_NP_1"}
 	],
 	preloads: []
 };
